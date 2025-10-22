@@ -3,6 +3,11 @@
 
 ---
 
+## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID_HERE/maxresdefault.jpg)](https://www.youtube.com/watch?v=giGKg2BMJmU)
+
+
 ## 🚀 Overview
 The **AI Gun Detection System** is an intelligent surveillance solution designed to automatically detect firearms in **real-time** video feeds using **deep learning** and **computer vision**.  
 This project enhances public safety by integrating machine learning models capable of identifying weapons with high accuracy and low latency.
